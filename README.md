@@ -35,7 +35,7 @@ This project aims to create a snake game on the STM32 card. But we didn't want t
 
 #### Link to github repository
 
-- https://github.com/
+- https://github.com/0xARK/noPython
 
 ## In which context did I this project?
  
