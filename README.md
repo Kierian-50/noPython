@@ -7,7 +7,7 @@ This project aims to create a snake game on the STM32 card. But we didn't want t
 ## Contributors
 
 - Kierian Tirlemont ; university mail : <tirlemont@et.esiea.fr> ; personal mail : <tirlemontkierian@gmail.com>
-- MatÃ©o Castella ; university mail : <castella@et.esiea.fr>
+- Matéo Castella ; university mail : <castella@et.esiea.fr>
 - If you want to contribute to this project you're welcome.
 
 ## Date
